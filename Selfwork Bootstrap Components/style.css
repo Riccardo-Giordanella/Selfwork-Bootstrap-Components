@@ -1,0 +1,43 @@
+nav img{
+    width: 70px;
+}
+
+.nav-custom{
+    height: 80px;
+}
+
+header{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    background-image: url(./Media/ARANCINI.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+h1{
+    text-shadow: 5px 5px 5px black;
+    color: white;
+    letter-spacing: 2px;
+    margin-top: -80px;
+}
+
+h2{
+    margin-bottom: 100px;
+}
+
+.card{
+    transition: 0.4s;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+footer li{
+    list-style: none;
+}
+
+footer i{
+    margin-right: 5px;
+}
